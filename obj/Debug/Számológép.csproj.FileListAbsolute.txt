@@ -1,0 +1,10 @@
+C:\Users\gecsel\Gitwork\Számológép\bin\Debug\Számológép.exe.config
+C:\Users\gecsel\Gitwork\Számológép\bin\Debug\Számológép.exe
+C:\Users\gecsel\Gitwork\Számológép\bin\Debug\Számológép.pdb
+C:\Users\gecsel\Gitwork\Számológép\obj\Debug\Számológép.csproj.AssemblyReference.cache
+C:\Users\gecsel\Gitwork\Számológép\obj\Debug\Számológép.Form1.resources
+C:\Users\gecsel\Gitwork\Számológép\obj\Debug\Számológép.Properties.Resources.resources
+C:\Users\gecsel\Gitwork\Számológép\obj\Debug\Számológép.csproj.GenerateResource.cache
+C:\Users\gecsel\Gitwork\Számológép\obj\Debug\Számológép.csproj.CoreCompileInputs.cache
+C:\Users\gecsel\Gitwork\Számológép\obj\Debug\Számológép.exe
+C:\Users\gecsel\Gitwork\Számológép\obj\Debug\Számológép.pdb
